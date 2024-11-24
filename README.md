@@ -1,4 +1,5 @@
-<h1>Hi, I'm Nabilah! <br/> <a href="https://www.linkedin.com/in/nabilah-saleh/">Computer Science Student</a>, <a href="https://www.instagram.com/NabilahSaleh">Tech Enthusiast</a></h1>
+
+<h1>Hi, I'm Nabilah! <br/><a href="https://www.linkedin.com/in/nabilah-saleh/" target="_blank">Computer Science Student</a>, <a href="https://www.instagram.com/NabilahSaleh">Tech Enthusiast</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -10,7 +11,7 @@
 
 [<img align="left" alt="NabilahSaleh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/nabilah-saleh
+[linkedin]: https://www.linkedin.com/in/nabilah-saleh/ 
 
 <!--
 **NabilahSaleh/NabilahSaleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
