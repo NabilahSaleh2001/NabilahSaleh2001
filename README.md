@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Nabilah! <br/><a href="https://www.linkedin.com/in/nabilah-saleh/" target="_blank">Computer Science Student</a>, <a href="https://www.instagram.com/NabilahSaleh">Tech Enthusiast</a></h1>
+<h1>Hi, I'm Nabilah! <br/><a href="https://www.linkedin.com/in/nabilah-saleh/" target="_blank">Computer Science Student</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
