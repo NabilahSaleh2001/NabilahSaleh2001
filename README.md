@@ -5,7 +5,7 @@
 
 - <b><a href="https://github.com/NabilahSaleh2001/Electronic-Store-Inventory-Management-System/tree/main">Electronic Store Inventory Management System</a></b> (C++, UMD - November 2024)
 - <b><a href="https://github.com/NabilahSaleh2001/Simple-Calculator-Simulator-in-C-">Simple Calculator Simulator</a></b> (C++, UMD - April 2024)
-- <b><a href="https://github.com/NabilahSaleh/Account-Balancing-System">Account Balancing System</a></b> (C++, UMD - March 2024)
+- <b><a href="https://github.com/NabilahSaleh2001/Account-Balancing-System/tree/main">Account Balancing System</a></b> (C++, UMD - March 2024)
 
 <h2> 🤳 Connect with me:</h2>
 
